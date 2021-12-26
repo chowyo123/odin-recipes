@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(232,230,230);
+}
+
+.recipeimage {
+    height: auto;
+    width: 500px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Helvetica, sans-serif, arial;
+}
+p, li {
+    font-family: Tahoma, sans-serif, arial;
+}
+
+
+
+
